@@ -2,4 +2,4 @@
 
 Ce dossier contient les documents du projet.
 
-- `rapport-projet.pdf` : Rapport technique complet
+- `rapport du projet.pdf` : Rapport technique complet
